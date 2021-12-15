@@ -1,0 +1,12 @@
+Admin:
+
+Add Bank and Add Branch Pages are same 
+Proper pop up not available
+Remove button required
+Title should be verified
+in add bank ifsc should be unique and name as Primary key
+in add branch same ifsc should be used to define the branch as foreign key
+in add customer pan & adhar no should be unique
+spelling mistake "individual"
+
+Customer:
